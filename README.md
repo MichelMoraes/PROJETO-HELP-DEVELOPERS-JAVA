@@ -30,5 +30,5 @@ http://localhost:8090/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 <img width="950" alt="swagger" src="https://user-images.githubusercontent.com/13774108/184702074-caf13880-c2d0-43f4-9c67-38fc9f5d6a65.PNG">
 
 Health Check do Microsserviço
-
+http://localhost:8090/actuator
 <img width="356" alt="health check" src="https://user-images.githubusercontent.com/13774108/184701966-0dd83ec6-d315-4a7b-98df-5181b629b691.PNG">
