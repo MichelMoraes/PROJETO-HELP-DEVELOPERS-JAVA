@@ -23,7 +23,7 @@ class OpenApiCustomizer {
         return new OpenAPI().info(new Info()
                 .title("Help Developers Api")
                 .version("1.0.0")
-                .description("<b>HDA</b></br>Aqui você encontrará exemplos de implementações."));
+                .description("<b>Help Developers Api</b></br>Aqui você encontrará exemplos de implementações e dicas para o dia a dia de desenvolvimento de microsserviços."));
     }
 
     @Bean
