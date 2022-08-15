@@ -1,17 +1,23 @@
-# HELP-DEVELOPERS-JAVA
+# HELP-DEVELOPERS-JAVA-SPRING-BOOT
 
 
-* Java Versions
-  * Java 8
-  * Java 11
-  * Java 17
+* Java Versions (8/11/17)
 * Functional
-* TDD - JUNIT
-* BDD - CUCCUMBER
+* TDD - Junit
+* BDD - Cuccumber
 * Utilities
 * BD - Querys
-* JPA - MONGO - JDBC
+* JPA - Mongo - JDBC
 * Environment preparation INTELLIJ IDE
 * GIT
-
+* Consul
+* Vault
+* Kafka
+* Arquitetura Orientada a Eventos
+* Arquitetura Rest e Boas Práticas
+* Solid
+* Swagger
 * Tips
+* Health Check de Microsserviços
+
+Contato: 
