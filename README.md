@@ -21,6 +21,8 @@
 * Swagger
 * Tips
 * Health Check de Microsserviços
+* React
+* AWS - StepFunctions - Lambda  
 
 Contato: 
 
