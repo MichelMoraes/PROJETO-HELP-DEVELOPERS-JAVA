@@ -17,7 +17,7 @@ public class TestesUnitariosController {
     @Operation(summary = "Retorna os detalhes sobre Testes Unitários")
     @GetMapping("testes")
     public String detailTestes() {
-        return " Exemplo: \n"+
+        return " Exemplo Teste: \n"+
                 "\n" +
                 "@ExtendWith(MockitoExtension.class)\n" +
                 "class CountryControllerTest {\n" +
