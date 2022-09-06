@@ -12,11 +12,11 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "country")
+@Table(name = "state")
 @AllArgsConstructor
 @Getter
 @Setter
-public class Country {
+public class State {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
@@ -24,10 +24,7 @@ public class Country {
     @Column(nullable = false)
     private String name;
 
- /*   @Column(nullable = false)
-    private State state;*/
-
-    public Country() {
+    public State() {
 
     }
 }

@@ -43,7 +43,7 @@ class CountryControllerTest {
 
         Country country1 = new Country();
         country1.setId(1);
-        country1.setName("BRASIL");
+        country1.setName("BRASIL 1");
 
         MockHttpServletRequest request = new MockHttpServletRequest();
         RequestContextHolder.setRequestAttributes(new ServletRequestAttributes(request));
