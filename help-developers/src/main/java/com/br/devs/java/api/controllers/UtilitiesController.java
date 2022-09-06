@@ -21,4 +21,22 @@ public class UtilitiesController {
     }
 
 
+    @Operation(summary = "Retorna informações sobre HTTP response status codes")
+    @GetMapping("status-code")
+    public String statusCode() {
+        return "Acesse: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status";
+    }
+
+    @Operation(summary = "Retorna informações sobre o protocolo HTTP")
+    @GetMapping("http")
+    public String http() {
+        return "Acesse:  https://developer.mozilla.org/en-US/docs/Web/HTTP";
+    }
+
+
+
+
+
+
+
 }
