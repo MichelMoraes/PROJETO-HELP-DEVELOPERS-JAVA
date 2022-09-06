@@ -1,4 +1,6 @@
 app:
+  kafka:
+    topic-api: topico-api-test
 springdoc:
   pathsToMatch: /**,
   swagger-ui:
